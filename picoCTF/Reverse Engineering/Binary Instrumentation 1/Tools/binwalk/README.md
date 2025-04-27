@@ -1,3 +1,0 @@
-```
-binwalk -e filename
-```
